@@ -1,0 +1,13 @@
+{% extends "layout.html" %} 
+{% load static %} 
+{% block title %}Posts{% endblock%} 
+{% block content %}
+<div>
+  <h1>{{ post.title }}</h1>
+  <p>{{ post.content }}</p>
+  <p><a href="{% url 'author_view' post.author.id %}" >{{ post.author }}</a></p>
+  <img src="../../../static/images/images.jpeg" width="300" alt="" />
+  
+</div>
+
+{% endblock %}

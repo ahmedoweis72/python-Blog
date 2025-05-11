@@ -1,0 +1,6 @@
+
+{
+    "posts": "http://127.0.0.1:8000/posts/posts/",
+    "authors": "http://127.0.0.1:8000/posts/authors/",
+    "comments": "http://127.0.0.1:8000/posts/comments/"
+}

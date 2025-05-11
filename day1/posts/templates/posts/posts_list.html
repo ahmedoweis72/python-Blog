@@ -1,0 +1,9 @@
+{% extends "layout.html" %} {% load static %} {% block title %}Posts{%endblock%} 
+{% block content %} {% for post in posts %}
+<a href="post/{{post.id}}">
+    <div>
+        <h1>{{post.title}}</h1>
+        <img src="../../../static/images/images.jpeg" width="300" alt="" />
+      </div>
+</a>
+{% endfor %} {% endblock %}
