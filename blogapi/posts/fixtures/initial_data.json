@@ -1,0 +1,38 @@
+[
+  {
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+      "title": "Getting Started with React",
+      "author": 1,
+      "content": "React is a JavaScript library for building user interfaces...",
+      "imageUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "created_at": "2025-05-15T00:00:00Z",
+      "updated_at": "2025-05-15T00:00:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+      "title": "Getting Started with React",
+      "author": 1,
+      "content": "React is a JavaScript library for building user interfaces...",
+      "imageUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "created_at": "2025-05-15T00:00:00Z",
+      "updated_at": "2025-05-15T00:00:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "pk": 1,
+    "fields": {
+      "title": "Getting Started with React",
+      "author": 1,
+      "content": "React is a JavaScript library for building user interfaces...",
+      "imageUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "created_at": "2025-05-15T00:00:00Z",
+      "updated_at": "2025-05-15T00:00:00Z"
+    }
+  }
+]
